@@ -8,6 +8,6 @@
 4. Ajout et activation de "branch protect" (settings > branches)
 5. Création d'un "wiki" (+ retransmission dans le fichier "readme.md")
 6. Création d'un "personal access token" sur mon organisation 
-7. Création des dossiers "module" et ".github/workflows"
+7. Création des dossiers "module" et ".github/workflows" et des templates associés
 
 
