@@ -14,4 +14,7 @@
     - créations d'utilisateurs dans l'organisation
     - Activer la branche de protection dans l'organisation
     - ajouter des variables relatif a la configuration du repository (readme.md, wiki, gitignore, etc.)
-
+    - ajout du token secret github
+9. Création du workflow
+    - secret token pour la sauvegarde des states
+    
