@@ -10,5 +10,5 @@ variable "repository" {
 
 variable "GH_TOKEN"{
     type = string
-    value = "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"
+    description = "token pour sauvegarder les states"
 }
