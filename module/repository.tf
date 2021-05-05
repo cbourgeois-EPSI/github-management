@@ -1,5 +1,5 @@
 resource "github_repository" "example" {
-  name        = "example"
+  name        = var.repository
   description = "My awesome codebase"
 
   visibility = "public"
@@ -9,3 +9,4 @@ resource "github_repository" "example" {
     repository = "terraform-module-template"
   }
 }
+
