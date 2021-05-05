@@ -8,7 +8,7 @@ variable "repository" {
     description = "permet de créer un repository"
 }
 
-variable "GH_TOKEN"{
+variable "TOKEN_API_TERRAFORM"{
     type = string
     description = "token pour sauvegarder les states"
 }
