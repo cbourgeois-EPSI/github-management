@@ -1,9 +1,4 @@
 provider "github" {
-  token = "${var.github_token}"
-  owner = "${var.github_owner}"
-}
-
-
-resource "github_membership" "membership_for_user_x" {
-  
+  token = "${var.GH_TOKEN}"
+  owner = "${var.member_user}"
 }
