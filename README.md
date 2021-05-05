@@ -9,5 +9,9 @@
 5. Création d'un "wiki" (+ retransmission dans le fichier "readme.md")
 6. Création d'un "personal access token" sur mon organisation 
 7. Création des dossiers "module" et ".github/workflows" et des templates associés
-
+8. Création du fichier de code qui répertorie les points suivants :
+    - Création d'un repository
+    - créations d'utilisateurs dans l'organisation
+    - Activer la branche de protection dans l'organisation
+    - ajouter des variables relatif a la configuration du repository (readme.md, wiki, gitignore, etc.)
 
